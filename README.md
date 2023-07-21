@@ -1,66 +1,23 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![1](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/c63e25f0-b5b8-4942-abf4-78b2499586ce)
+![Screenshot (2)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/d85e8e8f-bf09-466d-8fcf-a422c9c96f7d)
+![Screenshot (3)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/e00e6551-4711-43bd-b27c-46d8acb19832)
+![Screenshot (4)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/bae138ec-1acf-49a5-884c-1abac2b5a999)
+![Screenshot (5)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/553e01e2-15df-422b-9dfe-50c615189c18)
+![Screenshot (6)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/48ccd962-c17b-4078-bb0a-ebab869a18ea)
+![Screenshot (7)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/6256dd83-71c2-499c-9900-cb21b40cad9a)
+![Screenshot (8)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/9f6ddb7c-d012-4685-bcbd-f3d1e52dd33c)
+![Screenshot (9)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/5c2f2f36-7ab9-4f2e-9c3a-e17bfad1f775)
+![Screenshot (10)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/cf66e04e-e695-4591-9fd6-b17642076e9a)
+![Screenshot (11)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/fa531469-13bc-45a0-bed1-f263edbb84e3)
+![Screenshot (12)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/32161f56-a237-40ae-8ae5-a622ac1004ff)
+![Screenshot (13)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/f1eff470-6a38-4832-a826-9e6fa061cb60)
+![Screenshot (14)](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/230a7723-e4cb-4eb9-8690-7fad2474b0be)
+![Screenshot 2023-07-21 114707](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/3ab950d3-f970-4598-9c24-025579809f47)
+![Screenshot 2023-07-21 114741](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/518e7a87-c1f5-4ef5-a823-268749cb490b)
+![Screenshot 2023-07-21 114830](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/4dc09d2a-0f8c-430b-9bec-173bef423e7b)
+![Screenshot 2023-07-21 114850](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/98af2d2d-2d10-4979-96b7-3ac2678e1b65)
+![Screenshot 2023-07-21 115109](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/3f3cb639-2b0e-4f2f-a90e-b17478933ef3)
+![Screenshot 2023-07-21 115129](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/f707b3af-2f90-4f48-9df0-cfdde61a0d95)
+![Screenshot 2023-07-21 115147](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/0df901eb-cb0a-4312-a774-fd5f3a53c8dc)
+![Screenshot 2023-07-21 115205](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/b7e9dc1c-c1af-49c7-9b23-2e6925f88b3a)
+![Screenshot 2023-07-21 115221](https://github.com/wubetayalew/Task-Management-PWA/assets/94085888/8d361bb6-c077-4abc-b4a9-c186b06b525c)
